@@ -1,52 +1,51 @@
 {
-  "_from": "https://www.atom.io/api/packages/slot-shopeepay/versions/1.12.1/tarball",
-  "_id": "slot-shopeepayy@1.12.1",
+  "_from": "https://www.atom.io/api/packages/slot-cuan/versions/1.12.1/tarball",
+  "_id": "slot-cuany@1.12.1",
   "_inBundle": false,
   "_integrity": "sha512-vQrVEBX17h6M2AITs4jBTBTtaat3lCfGRhvlx6SHimo6tbtswRK4wY9+bMwLRjK3i3KK7VtaIxgY4TlcCj24lA==",
-  "_location": "/slot-shopeepay",
+  "_location": "/slot-cuan",
   "_phantomChildren": {},
   "_requested": {
     "type": "remote",
-    "raw": "https://www.atom.io/api/packages/slot-shopeepay/versions/1.12.1/tarball",
-    "rawSpec": "https://www.atom.io/api/packages/slot-shopeepay/versions/1.12.1/tarball",
-    "saveSpec": "https://www.atom.io/api/packages/slot-shopeepay/versions/1.12.1/tarball",
-    "fetchSpec": "https://www.atom.io/api/packages/slot-shopeepay/versions/1.12.1/tarball"
+    "raw": "https://www.atom.io/api/packages/slot-cuan/versions/1.12.1/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/slot-cuan/versions/1.12.1/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/slot-cuan/versions/1.12.1/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/slot-cuan/versions/1.12.1/tarball"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://www.atom.io/api/packages/slot-shopeepay/versions/1.12.1/tarball",
+  "_resolved": "https://www.atom.io/api/packages/slot-cuan/versions/1.12.1/tarball",
   "_shasum": "e6698e0f5c222d8a73534ee52dde46f2322fdfda",
-  "_spec": "https://www.atom.io/api/packages/slot-shopeepay/versions/1.12.1/tarball",
+  "_spec": "https://www.atom.io/api/packages/slot-cuan/versions/1.12.1/tarball",
   "_where": "C:\\Users\\HP\\AppData\\Local\\Temp\\apm-install-dir-2022621-14804-1f1vzzy.k584",
   "activationCommands": {
-    "atom-workspace": "slot-shopeepay:toggle"
+    "atom-workspace": "slot-cuan:toggle"
   },
   "bugs": {
-    "url": "https://github.com/slot-shopeepay/slot-shopeepay/issues"
+    "url": "https://github.com/slot-cuan/slot-cuan/issues"
   },
   "bundleDependencies": false,
   "deprecated": false,
-  "description": "Daftar Situs Judi Slot Online Deposit Via Gopay 5000 Tanpa Potongan",
+  "description": "Wisbet88 Bandar slot cuan terus dan bisa hoki dapat jackpot terbesar slot online ",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "slot cuan": ">=1.0.0 <2.0.0"
   },
-  "homepage": "https://github.com/slot-shopeepay/slot-online-deposit-gopay-5000#readme",
+  "homepage": "https://github.com/slot-cuan/slot-online-deposit-gopay-5000#readme",
   "keywords": [
-    "Slot Shopeepay",
-    "Slot Shopeepay 5000",
-    "Situs Deposit Shopeepay ",
-    "Slot Deposit Gopay",
-    "Slot Via Shopee",
-    "Slot Deposit ShopeepatTanpa Potongan"
+    "Slot cuan",
+    "Slot online cuan terbesar",
+    "Situs hoki cuan",
+    "Slot cuan 777",
+    "Slot cuan terus",
   ],
   "license": "MIT",
-  "main": "./atom/rb/20july/gopay/slot-shopeepay",
-  "name": "slot-shopeepay",
+  "main": "./atom/rb/20july/gopay/slot-cuan",
+  "name": "slot-cuan",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slot-shopeepay/slot-shopeepay.git"
+    "url": "git+https://github.com/slot-cuan/slot-cuan.git"
   },
   "version": "1.12.1"
 }
